@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "FRI(END)S",
+  "base_artist": "V",
+  "createdAt": "2026-02-28T07:35:14.138726Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "FRI(END)S",
+      "artist": "V",
+      "has_synced": true,
+      "path": "select/01_FRI(END)S_V.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "FRI(END)S (Slowed Down)",
+      "artist": "V",
+      "has_synced": true,
+      "path": "select/02_FRI(END)S_(Slowed_Down)_V.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "FRI(END)S (Slowed Down)",
+      "artist": "V",
+      "has_synced": false,
+      "path": "select/03_FRI(END)S_(Slowed_Down)_V.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "FRI(END)S (Instrumental)",
+      "artist": "V",
+      "has_synced": false,
+      "path": "select/04_FRI(END)S_(Instrumental)_V.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "FRI(END)S",
+      "artist": "V",
+      "has_synced": true,
+      "path": "select/05_FRI(END)S_V.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "FRI(END)S (Slowed Down)",
+      "artist": "V",
+      "has_synced": true,
+      "path": "select/06_FRI(END)S_(Slowed_Down)_V.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "FRI(END)S (Sped Up)",
+      "artist": "V",
+      "has_synced": false,
+      "path": "select/07_FRI(END)S_(Sped_Up)_V.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "FRI(END)S",
+      "artist": "V",
+      "has_synced": true,
+      "path": "select/08_FRI(END)S_V.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "FRI(END)S",
+      "artist": "V",
+      "has_synced": true,
+      "path": "select/09_FRI(END)S_V.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "FRI(END)S",
+      "artist": "V (뷔)",
+      "has_synced": true,
+      "path": "select/10_FRI(END)S_V_(뷔).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "FRI(END)S - Slowed Down",
+      "artist": "V",
+      "has_synced": true,
+      "path": "select/11_FRI(END)S_-_Slowed_Down_V.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FRI(END)S",
+      "artist": "V",
+      "has_synced": false,
+      "path": "select/pl_01_FRI(END)S_V.txt"
+    }
+  ]
+}
